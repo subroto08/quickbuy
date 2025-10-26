@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023896768906",
+    "project_id": "ecommerceapp-31ea6",
+    "storage_bucket": "ecommerceapp-31ea6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023896768906:android:7b5dbf73d4fe1da4027873",
+        "android_client_info": {
+          "package_name": "com.example.QuickBuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMYxkSU79IVH4bFE06cVXdr8JWH5_uUqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
